@@ -11,6 +11,7 @@ flake8 = "*"
 [packages]
 django = "==2.2.5"
 pillow = "*"
+django-countries = "*"
 
 [requires]
 python_version = "3.7"
