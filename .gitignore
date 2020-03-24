@@ -132,5 +132,7 @@ dmypy.json
 # Mac
 .DS_Store
 
+uploads/
+
 # VSC
 .vscode
